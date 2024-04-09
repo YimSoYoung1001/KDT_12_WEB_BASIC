@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Introduce Yourself</title>
+</head>
+<body>
+    <h1>Introduce Yourself</h1>
+    <form>
+        <fieldset>
+            <legend>기본 정보</legend>
+            <p>
+                <label for = 'username'>이름</label>
+                <br>
+                <input type = 'text' id = 'username'>
+            </p>
+            <p>
+                <label for = 'userage'>나이</label>
+                <br>
+                <input type = 'text' id = 'userage'>
+            </p>
+            <p>
+                <label for="desc">자기소개
+                    <br>
+                    <textarea id = 'desc' name = 'desc'></textarea>
+                </label>
+            </p>
+            <p>
+                <h3>어데 사노</h3>
+                <select name ='city' id ='city'>
+                    <optgroup label = '대구광역시'>
+                        <option value = '중구'>중구</option>
+                        <option value = '남구'>남구</option>
+                        <option value = '북구'>북구</option>
+                        <option value = '서구'>서구</option>
+                        <option value = '동구'>동구</option>
+                    </optgroup>
+                </select>
+            </p>
+            <p>
+                <h3>뭐하고싶노</h3>
+                <select name = 'domain' id = 'domain'>
+                    <optgroup label = '분야'>
+                        <option value = 'backend'>backend</option>
+                        <option value = 'frontend'>frontend</option>
+                    </optgroup>
+                </select>
+            </p>
+
+            <input type = 'submit'>
+        </fieldset>
+    </form>
+
+</body>
+</html>

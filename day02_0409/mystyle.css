@@ -1,0 +1,10 @@
+/*태그명 선택자*/
+p {background-color: green; font-size: 30px;}
+#target {background-color: yellow; border:5px dotted red; color:white;}
+
+*{border:5px dotted blue;}
+
+/*클래스 속성이 동일한 부분에 적용*/
+.para {background-color:beige;}
+
+h1, p {color:bisque;}
