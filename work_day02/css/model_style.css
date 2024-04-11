@@ -1,0 +1,11 @@
+body {
+    align-content: center;
+    background-image: url('../img/hbg_background_02.jpg');
+    background-size: cover;
+    color:greenyellow; 
+    text-align: center; /* 요소 내부의 텍스트를 가운데 정렬 */
+    margin: 0 auto; /* 요소를 가로 방향으로 가운데 정렬 */
+}
+form {
+    color:aliceblue
+  }

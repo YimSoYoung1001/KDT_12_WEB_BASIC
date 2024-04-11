@@ -1,0 +1,1069 @@
+restaurant,item,calories,sodium,sugar,total_fat,protein
+Mcdonalds,Artisan Grilled Chicken Sandwich,380,1110,11,7,37.0
+Mcdonalds,Single Bacon Smokehouse Burger,840,1580,18,45,46.0
+Mcdonalds,Double Bacon Smokehouse Burger,1130,1920,18,67,70.0
+Mcdonalds,Grilled Bacon Smokehouse Chicken Sandwich,750,1940,18,31,55.0
+Mcdonalds,Crispy Bacon Smokehouse Chicken Sandwich,920,1980,18,45,46.0
+Mcdonalds,Big Mac,540,950,9,28,25.0
+Mcdonalds,Cheeseburger,300,680,7,12,15.0
+Mcdonalds,Classic Chicken Sandwich,510,1040,6,24,25.0
+Mcdonalds,Double Cheeseburger,430,1040,7,21,25.0
+Mcdonalds,Double Quarter Pounder® with Cheese,770,1290,10,45,51.0
+Mcdonalds,Filet-O-Fish®,380,640,5,18,15.0
+Mcdonalds,Garlic White Cheddar Burger,620,790,11,34,32.0
+Mcdonalds,Grilled Garlic White Cheddar Chicken Sandwich,530,1150,11,20,42.0
+Mcdonalds,Crispy Garlic White Cheddar Chicken Sandwich,700,1190,11,34,33.0
+Mcdonalds,Hamburger,250,480,6,8,13.0
+Mcdonalds,Lobster Roll,290,630,3,5,24.0
+Mcdonalds,Maple Bacon Dijon 1/4 lb Burger,640,1260,10,36,37.0
+Mcdonalds,Grilled Maple Bacon Dijon Chicken Sandwich,580,1890,14,21,48.0
+Mcdonalds,Crispy Maple Bacon Dijon Chicken Sandwich,740,1780,14,35,39.0
+Mcdonalds,McChicken,350,600,5,15,15.0
+Mcdonalds,McDouble,380,840,7,18,23.0
+Mcdonalds,McRib,480,870,12,22,25.0
+Mcdonalds,Pico Guacamole 1/4 lb Burger,580,920,7,33,29.0
+Mcdonalds,Grilled Pico Guacamole Chicken Sandwich,520,1540,12,18,40.0
+Mcdonalds,Crispy Pico Guacamole Chicken Sandwich,680,1430,12,32,31.0
+Mcdonalds,Premium Buttermilk Crispy Chicken Deluxe Sandwich,570,1050,11,23,28.0
+Mcdonalds,Premium Crispy Chicken Deluxe Sandwich,530,1000,13,22,25.0
+Mcdonalds,Quarter Pounder® with Cheese,530,1090,10,27,31.0
+Mcdonalds,Signature Sriracha Burger,670,1010,13,35,32.0
+Mcdonalds,Grilled Signature Sriracha Chicken Sandwich,560,1550,14,20,41.0
+Mcdonalds,Crispy Signature Sriracha Chicken Sandwich,730,1430,13,33,32.0
+Mcdonalds,Sweet BBQ Bacon 1/4 lb Burger,690,1310,14,37,38.0
+Mcdonalds,Grilled Sweet BBQ Bacon Chicken Sandwich,630,1930,18,22,48.0
+Mcdonalds,Crispy Sweet BBQ Bacon Chicken Sandwich,800,1820,18,36,39.0
+Mcdonalds,3 piece Buttermilk Crispy Chicken Tenders,370,910,0,21,28.0
+Mcdonalds,4 piece Buttermilk Crispy Chicken Tenders,480,1290,1,28,38.0
+Mcdonalds,6 piece Buttermilk Crispy Chicken Tenders,760,1890,1,44,58.0
+Mcdonalds,10 piece Buttermilk Crispy Chicken Tenders,1210,3230,4,70,94.0
+Mcdonalds,12 piece Buttermilk Crispy Chicken Tenders,1510,3770,2,88,115.0
+Mcdonalds,20 piece Buttermilk Crispy Chicken Tenders,2430,6080,3,141,186.0
+Mcdonalds,4 Piece Chicken McNuggets,180,340,0,11,10.0
+Mcdonalds,6 Piece Chicken McNuggets,270,510,0,16,15.0
+Mcdonalds,10 Piece Chicken McNuggets,440,840,0,27,24.0
+Mcdonalds,20 Piece Chicken McNuggets,890,1680,0,53,49.0
+Mcdonalds,40 piece Chicken McNuggets,1770,3370,1,107,98.0
+Mcdonalds,4 piece Sweet N' Spicy Honey BBQ Glazed Tenders,640,1780,35,27,39.0
+Mcdonalds,6 piece Sweet N' Spicy Honey BBQ Glazed Tenders,960,2670,52,40,58.0
+Mcdonalds,10 piece Sweet N' Spicy Honey BBQ Glazed Tenders,1600,4450,87,66,97.0
+Mcdonalds,Premium Asian Salad w/o Chicken,140,20,7,7,7.0
+Mcdonalds,Premium Asian Salad w/ Grilled Chicken,270,740,10,9,31.0
+Mcdonalds,Premium Asian Salad w/ Crispy Chicken,490,1120,4,28,33.0
+Mcdonalds,Premium Bacon Ranch Salad w/o Chicken,190,660,3,12,14.0
+Mcdonalds,Premium Bacon Ranch Salad w/ Grilled Chicken,320,1230,4,14,42.0
+Mcdonalds,Premium Bacon Ranch Salad w/ Crispy Chicken,490,1120,4,28,33.0
+Mcdonalds,Premium Southwest Salad w/o Chicken,220,500,9,10,8.0
+Mcdonalds,Premium Southwest Salad w/ Grilled Chicken,350,1070,9,12,37.0
+Mcdonalds,Premium Southwest Salad w/ Crispy Chicken,520,960,9,25,28.0
+Chick Fil-A,Chargrilled Chicken Club Sandwich,430,1120,7,16,37.0
+Chick Fil-A,Chargrilled Chicken Sandwich,310,820,7,6,29.0
+Chick Fil-A,Chick-n-Slider,270,800,4,11,16.0
+Chick Fil-A,1 Piece Chick-n-Strips,120,320,1,6,11.0
+Chick Fil-A,2 Piece Chick-n-Strips,230,630,1,12,22.0
+Chick Fil-A,3 Piece Chick-n-Strips,350,940,3,17,28.0
+Chick Fil-A,4 piece Chick-n-Strips,470,1250,4,23,37.0
+Chick Fil-A,Chicken Deluxe,500,1590,6,23,31.0
+Chick Fil-A,4 piece Chicken Nuggets,130,490,0,6,14.0
+Chick Fil-A,6 piece Chicken Nuggets,190,730,0,9,21.0
+Chick Fil-A,8 piece Chicken Nuggets,260,990,1,12,28.0
+Chick Fil-A,12 piece Chicken Nuggets,390,1460,1,18,41.0
+Chick Fil-A,30 piece Chicken Nuggets,970,3660,1,46,103.0
+Chick Fil-A,Chicken Salad Sandwich,490,1130,12,19,28.0
+Chick Fil-A,Chicken Sandwich,440,1350,5,19,28.0
+Chick Fil-A,4 Piece Grilled Chicken Nuggets,70,220,0,2,13.0
+Chick Fil-A,6 Piece Grilled Chicken Nuggets,110,330,0,3,19.0
+Chick Fil-A,8 piece Grilled Chicken Nuggets,140,440,0,4,25.0
+Chick Fil-A,12 Piece Grilled Chicken Nuggets,210,670,1,5,38.0
+Chick Fil-A,Spicy Grilled Chicken Sub Sandwich,430,1310,9,12,33.0
+Chick Fil-A,Regular Grilled Chicken Sub Sandwich,450,1000,10,13,34.0
+Chick Fil-A,Smokehouse BBQ Bacon Sandwich,500,1200,10,18,33.0
+Chick Fil-A,Spicy Chicken Sandwich,450,1620,5,19,29.0
+Chick Fil-A,Spicy Deluxe,540,1760,6,25,34.0
+Chick Fil-A,Chargrilled Chicken Cool Wrap,350,960,3,14,37.0
+Chick Fil-A,Chicken Enchiladas Meal Kit,860,2520,8,47,39.0
+Chick Fil-A,Chicken Parmesan Meal Kit,720,1780,7,31,48.0
+Sonic,Hatch Green Chile Cheeseburger,710,1120,7,43,35.0
+Sonic,Jalapeno Burger,640,930,6,37,31.0
+Sonic,Jr. Burger,340,640,6,17,15.0
+Sonic,Jr. Chili Cheeseburger,410,730,4,24,20.0
+Sonic,Jr. Deluxe Burger,380,470,4,23,15.0
+Sonic,Jr. Deluxe Cheeseburger,450,800,4,28,19.0
+Sonic,Jr. Double Cheeseburger,600,1350,7,38,31.0
+Sonic,Sonic Bacon Cheeseburger (w/mayo),870,1350,7,59,39.0
+Sonic,Sonic Burger W/ Mustard,640,790,7,37,31.0
+Sonic,Sonic Burger W/ Ketchup,650,860,10,37,32.0
+Sonic,Sonic Burger W/ Mayonnaise,740,760,7,48,31.0
+Sonic,Sonic Cheeseburger W/ Mustard,710,1120,7,43,35.0
+Sonic,Sonic Cheeseburger W/ Ketchup,720,1190,10,43,35.0
+Sonic,Sonic Cheeseburger W/ Mayonnaise,800,1090,7,54,35.0
+Sonic,Super Sonic Bacon Double Cheeseburger (w/mayo),1280,1630,7,92,67.0
+Sonic,Super Sonic Double Cheeseburger W/ Mustard,1120,1550,8,76,63.0
+Sonic,Super Sonic Double Cheeseburger W/ Ketchup,1130,1620,11,76,63.0
+Sonic,Super Sonic Double Cheeseburger W/ Mayo,1220,1520,8,87,63.0
+Sonic,Super Sonic Jalapeno Double Cheeseburger,1120,1690,7,76,63.0
+Sonic,Veggie Burger W/ Ketchup,450,1410,11,14,15.0
+Sonic,Veggie Burger With Mustard,450,1350,8,14,15.0
+Sonic,Veggie Burger W/ Mustard,450,1300,8,14,15.0
+Sonic,Grilled Asiago Caesar Chicken Club Sandwich,610,1570,8,30,40.0
+Sonic,Crispy Asiago Caesar Chicken Club Sandwich,680,1120,7,39,31.0
+Sonic,Grilled Chicken Sandwich,430,940,6,20,28.0
+Sonic,Crispy Chicken Sandwich,570,1060,6,33,23.0
+Sonic,Chicken Strip Sandwich,450,740,4,24,19.0
+Sonic,3 Piece Crispy Chicken Tender Dinner,280,800,0,14,22.0
+Sonic,5 Piece Crispy Chicken Tender Dinner,470,1340,0,24,37.0
+Sonic,Deluxe Ultimate Chicken Sandwich,740,1550,12,39,33.0
+Sonic,Buffalo Dunked Ultimate Chicken Sandwich,1000,4520,12,61,23.0
+Sonic,Garlic Parmesan Dunked Ultimate Chicken Sandwich,1350,2180,10,100,23.0
+Sonic,Small Jumbo Popcorn Chicken,380,1250,1,22,18.0
+Sonic,Large Jumbo Popcorn Chicken,560,1890,2,32,27.0
+Sonic,Small Spicy Jumbo Popcorn Chicken,350,860,0,17,21.0
+Sonic,Large Spicy Jumbo Popcorn Chicken,610,1500,0,30,36.0
+Sonic,3 Piece Super Crunch Chicken Strip Dinner,970,2160,9,46,30.0
+Sonic,4 Piece Super Crunch Chicken Strip Dinner,1080,2390,9,51,37.0
+Sonic,5 Piece Super Crunch Chicken Strip Dinner,1190,2610,9,57,44.0
+Sonic,3 Piece Super Crunch Chicken Strips,330,670,0,16,22.0
+Sonic,4 Piece Super Crunch Chicken Strips,440,900,1,21,29.0
+Sonic,5 Piece Super Crunch Chicken Strips,550,1120,1,26,36.0
+Sonic,Traditional Ultimate Chicken Sandwich,730,1540,11,39,32.0
+Sonic,Ultimate Chicken Club,100,2070,12,64,39.0
+Sonic,"All Beef All-american Style Dog – 6""",370,1180,15,18,12.0
+Sonic,"All Beef Chicago Dog – 6""",430,2310,17,20,14.0
+Sonic,"All Beef Chili Cheese Coney – 6""",410,1140,4,26,17.0
+Sonic,"All Beef New York Dog – 6""",340,1250,4,19,13.0
+Sonic,"All Beef Regular Hot Dog – 6""",320,870,3,18,11.0
+Sonic,Cheesy Bacon Pretzel Dog - 6 In.,500,1410,7,26,15.0
+Sonic,Corn Dog,210,530,4,11,6.0
+Sonic,Footlong Quarter Pound Coney,830,1940,9,54,30.0
+Sonic,The Original Pretzel Dog,320,910,2,18,11.0
+Arbys,Arby's Melt,330,920,5,11,18.0
+Arbys,Arby-Q Sandwich,400,1230,23,10,18.0
+Arbys,Beef 'n Cheddar Classic,450,1280,9,20,23.0
+Arbys,Beef 'n Cheddar Mid,630,2100,9,32,39.0
+Arbys,Bourbon BBQ Brisket Sandwich,650,1460,15,33,38.0
+Arbys,Bourbon BBQ Chicken Sandwich,690,1990,16,31,38.0
+Arbys,Bourbon BBQ Steak Sandwich,690,1990,16,31,38.0
+Arbys,Buttermilk Buffalo Chicken Sandwich,540,2110,6,24,29.0
+Arbys,Buttermilk Chicken Bacon & Swiss,650,1750,9,31,39.0
+Arbys,Buttermilk Chicken Cordon Bleu Sandwich,690,2000,7,35,41.0
+Arbys,Buttermilk Crispy Chicken Sandwich,550,1480,6,26,29.0
+Arbys,Classic French Dip & Swiss/Au Jus,540,2500,3,23,35.0
+Arbys,Classic Roast Beef,360,970,5,14,23.0
+Arbys,Double Roast Beef,510,1610,5,24,38.0
+Arbys,Fire-Roasted Philly Steak,640,1950,4,32,42.0
+Arbys,Grand Turkey Club,480,1610,9,24,30.0
+Arbys,Greek Gyro,710,1360,6,44,23.0
+Arbys,Half Pound Beef 'n Cheddar Sandwich,740,2530,9,39,49.0
+Arbys,Half Pound French Dip & Swiss,750,3350,3,36,55.0
+Arbys,Half Pound Roast Beef Sandwich,610,2040,5,30,48.0
+Arbys,Ham & Swiss Melt,300,1030,6,9,18.0
+Arbys,Loaded Italian Sandwich,680,2270,7,40,32.0
+Arbys,Pecan Chicken Salad Flatbread,710,980,9,46,22.0
+Arbys,Pecan Chicken Salad Sandwich,840,1210,20,44,33.0
+Arbys,2 piece Prime-Cut Chicken Tenders,240,640,0,11,16.0
+Arbys,3 piece Prime-Cut Chicken Tenders,360,950,0,17,23.0
+Arbys,5 piece Prime-Cut Chicken Tenders,600,1590,0,28,39.0
+Arbys,Reuben Sandwich,680,2420,5,31,37.0
+Arbys,Roast Beef Gyro,550,1290,5,29,24.0
+Arbys,Roast Turkey & Swiss Sandwich,710,1930,15,28,38.0
+Arbys,Roast Turkey & Swiss Wrap,520,1640,6,27,30.0
+Arbys,"Roast Turkey, Ranch & Bacon Sandwich",800,2420,16,34,45.0
+Arbys,"Roast Turkey, Ranch & Bacon Wrap",620,2130,6,34,37.0
+Arbys,Smoke Mountain w/ Beef Short Rib,740,2050,17,35,43.0
+Arbys,Smokehouse Beef Short Rib Sandwich,590,1510,14,59,26.0
+Arbys,Smokehouse Brisket,600,1240,7,35,33.0
+Arbys,Super Roast Beef,430,1060,11,17,23.0
+Arbys,Three Cheese Steak Sandwich,650,1760,9,36,30.0
+Arbys,Triple Decker Sandwich,1030,2940,19,51,62.0
+Arbys,Turkey Avocado Club,730,2140,16,28,41.0
+Arbys,Turkey Gyro,470,1520,5,20,25.0
+Arbys,Ultimate BLT,980,2130,19,55,43.0
+Arbys,Buffalo Chicken Slider,290,860,2,13,12.0
+Arbys,Chicken Tender 'n Cheese Slider,290,720,1,12,15.0
+Arbys,Corned Beef 'n Cheese Slider,220,890,1,9,14.0
+Arbys,Ham 'n Cheese Slider,210,780,2,8,13.0
+Arbys,Jalapeno Roast Beef 'n Cheese Slider,240,670,1,11,14.0
+Arbys,Pizza Slider,300,930,2,17,13.0
+Arbys,Roast Beef 'n Cheese Slider,240,670,1,11,14.0
+Arbys,Turkey 'n Cheese Slider,200,760,2,7,14.0
+Arbys,Chopped Side Salad,70,100,2,5,5.0
+Arbys,Crispy Chicken Farmhouse Salad,430,1000,4,24,28.0
+Arbys,Greek Gyro Salad,420,700,4,37,10.0
+Arbys,Roast Turkey Farmhouse Salad,230,870,5,13,22.0
+Arbys,Super Greek Salad,720,1310,7,53,22.0
+Burger King,American Brewhouse King,1550,1820,7,126,134.0
+Burger King,Bacon & Swiss Sourdough King,1000,1320,8,65,56.0
+Burger King,Bacon Cheeseburger,330,830,7,16,18.0
+Burger King,Bacon Cheeseburger Deluxe,290,720,7,14,12.0
+Burger King,Bacon King,1040,1900,10,48,57.0
+Burger King,Bacon King Jr,730,1930,16,39,32.0
+Burger King,BBQ Bacon King,1100,1850,13,75,57.0
+Burger King,Cheeseburger,300,710,6,14,16.0
+Burger King,Double Bacon Cheeseburger,520,1180,8,31,31.0
+Burger King,Double Cheeseburger,450,960,6,26,26.0
+Burger King,Double Hamburger,360,520,6,18,22.0
+Burger King,Double Quarter Pound King,900,1740,11,54,56.0
+Burger King,Extra Long Cheeseburger,580,1030,9,33,26.0
+Burger King,Hamburger,260,490,6,10,13.0
+Burger King,Homestyle Cheeseburger,550,1140,10,27,30.0
+Burger King,Jalapeno King Sandwich,990,1550,7,65,55.0
+Burger King,Mushroom & Swiss King,940,1380,8,63,49.0
+Burger King,Rodeo Burger,310,450,9,13,9.0
+Burger King,Rodeo King,1250,2270,14,82,60.0
+Burger King,Sourdough King Single,730,1570,12,43,35.0
+Burger King,Sourdough King Double,970,1640,12,61,55.0
+Burger King,Steakhouse King,1100,1620,13,74,50.0
+Burger King,Bacon & Cheese Whopper,770,1360,9,48,29.0
+Burger King,DOUBLE WHOPPER w/o Cheese,900,1050,11,57,47.0
+Burger King,DOUBLE WHOPPER w/ Cheese,990,1480,11,65,52.0
+Burger King,WHOPPER w/o Cheese,660,980,11,40,28.0
+Burger King,WHOPPER w/ Cheese,760,1410,11,47,33.0
+Burger King,WHOPPER JR. w/o Cheese,340,510,6,19,14.0
+Burger King,WHOPPER JR. w/ Cheese,380,730,6,23,16.0
+Burger King,Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing,590,1540,6,40,42.0
+Burger King,Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,720,1960,7,50,36.0
+Burger King,Chicken BLT Salad w/ Grilled Chicken,550,1640,5,37,36.0
+Burger King,Chicken BLT Salad w/ Crispy Chicken,690,1750,8,48,35.0
+Burger King,Chicken Caesar Salad w/ Grilled Chicken,530,1640,6,32,35.0
+Burger King,Chicken Caesar Salad w/ Crispy Chicken,670,1760,8,43,34.0
+Burger King,"Chicken, Apple & Cranberry Salad w/ Grilled Chicken",560,980,34,30,29.0
+Burger King,"Chicken, Apple & Cranberry Salad w/ Crispy Chicken",700,1090,37,41,28.0
+Burger King,"Garden Grilled Chicken Salad w/ Grilled Chicken, no dressing",320,650,4,14,36.0
+Burger King,"Garden Grilled Chicken Salad w/ Crispy Chicken, no dressing",450,1070,6,24,29.0
+Burger King,Side Caesar Salad with dressing,220,540,3,20,6.0
+Burger King,Side Garden Salad and Avocado Ranch Dressing,230,520,3,21,5.0
+Burger King,Bacon Cheddar Ranch Crispy Chicken Sandwich,830,2100,9,52,34.0
+Burger King,BBQ Bacon Crispy Chicken Sandwich,440,630,13,27,7.0
+Burger King,Big Fish Sandwich,530,1360,7,27,17.0
+Burger King,BK VEGGIE Burger,410,1030,8,16,22.0
+Burger King,Chicken Burger,480,1160,10,25,22.0
+Burger King,Chicken Cordon Bleu Sandwich,730,1930,16,39,32.0
+Burger King,Chicken Fries,290,780,1,17,16.0
+Burger King,4 Piece Chicken Nuggets,190,310,0,11,10.0
+Burger King,6 Piece Chicken Nuggets,290,460,0,17,15.0
+Burger King,20 Piece Chicken Nuggets,950,1530,0,55,51.0
+Burger King,Chicken Nuggets (10pc),470,890,0,29,21.0
+Burger King,Chicken Parmesan Sandwich,570,1340,9,25,32.0
+Burger King,Crispy Buffalo Chicken Melt,580,2310,8,28,30.0
+Burger King,Crispy Chicken Jr.,430,760,4,28,12.0
+Burger King,Crispy Chicken Sandwich,670,1070,7,41,23.0
+Burger King,Grilled Chicken Sandwich,470,850,6,19,37.0
+Burger King,Grilled Chili Cheese Dog,330,980,5,19,14.0
+Burger King,Grilled Hot Dog,310,960,10,16,11.0
+Burger King,Jalapeno Chicken Fries,300,950,1,18,15.0
+Burger King,Original Chicken Sandwich,630,1390,4,39,24.0
+Burger King,Pretzel Chicken Fries,340,1200,1,21,16.0
+Burger King,Rodeo Crispy Chicken Sandwich,410,870,14,17,12.0
+Burger King,Sourdough Chicken Club,840,1760,7,51,32.0
+Burger King,4 Piece Spicy Chicken Nuggets,210,570,0,15,8.0
+Burger King,Spicy Chicken Nuggets,530,1420,0,37,20.0
+Burger King,Spicy Crispy Chicken Jr.,410,850,5,25,12.0
+Burger King,Spicy Crispy Chicken Sandwich,700,1140,8,42,25.0
+Burger King,Spicy Crispy Jalapeno Chicken Sandwich,760,1720,8,45,32.0
+Dairy Queen,1/2 lb. FlameThrower® GrillBurger,1000,1610,9,74,46.0
+Dairy Queen,1/2 lb. GrillBurger with Cheese,800,1280,13,51,40.0
+Dairy Queen,1/4 lb. Bacon Cheese GrillBurger,630,1250,13,37,30.0
+Dairy Queen,1/4 lb. GrillBurger with Cheese,540,1020,13,30,23.0
+Dairy Queen,1/4 lb. Mushroom Swiss GrillBurger,570,820,8,35,24.0
+Dairy Queen,Original Cheeseburger,400,930,8,18,19.0
+Dairy Queen,Original Double Cheeseburger,630,1240,9,34,34.0
+Dairy Queen,4 Piece Chicken Strip Basket w/ Country Gravy,1030,2780,4,53,35.0
+Dairy Queen,6 Piece Chicken Strip Basket w/ Country Gravy,1260,3500,4,66,49.0
+Dairy Queen,Bacon Cheese Dog,420,1140,3,26,19.0
+Dairy Queen,Cheese Dog,390,1000,3,24,16.0
+Dairy Queen,Chili Cheese Dog,380,900,3,24,16.0
+Dairy Queen,Chili Dog,330,1050,5,20,13.0
+Dairy Queen,Hot Dog,290,900,4,17,11.0
+Dairy Queen,Relish Dog,350,1000,6,20,13.0
+Dairy Queen,Barbecue Pork Sandwich,310,830,9,9,17.0
+Dairy Queen,Breaded Mushrooms,250,500,1,9,7.0
+Dairy Queen,Regular Cheese Curds,550,900,0,45,35.0
+Dairy Queen,Large Cheese Curds,1050,2210,30,75,43.0
+Dairy Queen,Chili Cheese Mega Dog,760,1570,6,49,32.0
+Dairy Queen,Corn Dog,260,450,7,15,6.0
+Dairy Queen,Crispy Fish Sandwich,470,1210,7,22,17.0
+Dairy Queen,Deluxe Cheeseburger,400,930,9,18,20.0
+Dairy Queen,Deluxe Double Cheeseburger,640,1240,9,34,34.0
+Dairy Queen,Deluxe Double Hamburger,540,750,9,26,29.0
+Dairy Queen,Deluxe Hamburger,350,680,9,14,17.0
+Dairy Queen,DQ Ultimate® Burger,780,1390,7,48,41.0
+Dairy Queen,Pork Tenderloin Sandwich,580,910,6,34,19.0
+Dairy Queen,Steak Finger Basket,910,2210,2,48,23.0
+Dairy Queen,3 chicken strips Chicken Strips,350,960,0,20,22.0
+Dairy Queen,Chicken Bacon Ranch Sandwich,500,1190,3,20,33.0
+Dairy Queen,Chicken Mozzarella Sandwich,640,1530,3,25,34.0
+Dairy Queen,Crispy Chicken BLT Salad,520,1470,6,31,37.0
+Dairy Queen,Crispy Chicken Garden Greens Salad,280,670,6,13,17.0
+Dairy Queen,Crispy Chicken Sandwich,600,1250,8,30,24.0
+Dairy Queen,Crispy Chicken Wrap,350,820,1,21,12.0
+Dairy Queen,Grilled Chicken BLT Salad,380,1540,6,19,42.0
+Dairy Queen,Grilled Chicken Garden Greens Salad,150,730,6,2,23.0
+Dairy Queen,Grilled Chicken Sandwich,360,1040,5,15,25.0
+Dairy Queen,Grilled Chicken Wrap,280,800,1,15,15.0
+Dairy Queen,Side Salad,20,15,3,0,1.0
+Dairy Queen,Turkey BLT Sandwich,550,1420,3,26,30.0
+Subway,"6"" B.L.T.",320,680,6,9,15.0
+Subway,Footlong B.L.T.,640,1360,12,18,30.0
+Subway,"6"" BBQ Rib Sandwich",430,590,8,18,19.0
+Subway,Footlong BBQ Rib Sandwich,860,1180,16,36,38.0
+Subway,"6"" Big Hot Pastrami",580,1470,7,31,29.0
+Subway,Footlong Big Hot Pastrami,1160,2940,14,62,58.0
+Subway,"6"" Big Philly Cheesesteak",500,1310,8,17,38.0
+Subway,Footlong Big Philly Cheesesteak,1000,2620,16,34,76.0
+Subway,Kids Mini Sub Black Forest Ham,180,450,5,3,10.0
+Subway,"6"" Black Forest Ham",290,830,8,5,18.0
+Subway,Footlong Black Forest Ham,580,1660,16,10,36.0
+Subway,"6"" Carved Turkey",330,890,7,5,25.0
+Subway,Footlong Carved Turkey,660,1780,14,10,50.0
+Subway,"6"" Carved Turkey & Bacon w/ Cheese",570,1600,8,26,33.0
+Subway,Footlong Carved Turkey & Bacon w/ Cheese,1140,3200,16,52,66.0
+Subway,"6"" Chicken & Bacon Ranch Melt",570,1080,8,28,35.0
+Subway,Footlong Chicken & Bacon Ranch Melt,1140,2160,16,56,70.0
+Subway,"6"" Chicken Pizziola Melt",460,1140,9,16,32.0
+Subway,Footlong Chicken Pizziola Melt,920,2280,18,32,64.0
+Subway,"6"" Cold Cut Combo",370,1140,7,13,18.0
+Subway,Footlong Cold Cut Combo,740,2280,14,26,36.0
+Subway,"6"" Corned Beef Reuben",470,1770,12,15,39.0
+Subway,Footlong Corned Beef Reuben,940,3540,24,30,78.0
+Subway,"6"" Italian B.M.T.",410,1300,8,16,20.0
+Subway,Footlong Italian B.M.T.,820,2600,16,32,40.0
+Subway,"6"" Italian Hero",550,1470,9,29,26.0
+Subway,Footlong Italian Hero,1100,2940,18,58,52.0
+Subway,"6"" Meatball Marinara",480,950,12,18,21.0
+Subway,Footlong Meatball Marinara,960,1900,24,36,42.0
+Subway,"6"" Oven Roasted Chicken",320,640,8,5,23.0
+Subway,Footlong Oven Roasted Chicken,640,1280,16,10,46.0
+Subway,Kids Mini Sub Roast Beef,200,390,5,3,14.0
+Subway,"6"" Roast Beef",320,700,7,5,24.0
+Subway,Footlong Roast Beef,640,1400,14,10,48.0
+Subway,"6"" Rotisserie Style Chicken",350,540,7,6,29.0
+Subway,Footlong Rotisserie Style Chicken,700,1080,14,12,58.0
+Subway,"6"" Spicy Italian",480,1520,8,24,20.0
+Subway,Footlong Spicy Italian,960,3040,16,48,40.0
+Subway,"6"" Steak and Cheese",380,1060,8,10,26.0
+Subway,Footlong Steak and Cheese,760,2120,16,20,52.0
+Subway,"6"" Subway Club",310,880,7,5,23.0
+Subway,Footlong Subway Club,620,1760,14,10,46.0
+Subway,"6"" Subway Melt (includes cheese)",370,1210,8,11,23.0
+Subway,Footlong Subway Melt (includes cheese),740,1420,16,22,46.0
+Subway,"6"" Subway Seafood Sensation",420,690,8,19,13.0
+Subway,Footlong Subway Seafood Sensation,840,1380,16,38,26.0
+Subway,"6"" Sweet Onion Chicken Teriyaki",380,900,18,5,26.0
+Subway,Footlong Sweet Onion Chicken Teriyaki,760,1800,36,10,52.0
+Subway,"6"" Tuna",470,620,6,24,20.0
+Subway,Footlong Tuna,940,1240,12,48,40.0
+Subway,"6"" Turkey & Bacon Avocado",390,860,7,13,22.0
+Subway,Footlong Turkey & Bacon Avocado,780,1720,14,26,44.0
+Subway,Kids Mini Sub Turkey Breast,180,380,5,2,10.0
+Subway,"6"" Turkey Breast",280,810,7,4,18.0
+Subway,Footlong Turkey Breast,560,1620,14,8,36.0
+Subway,"6"" Turkey Breast & Ham",280,820,8,4,18.0
+Subway,Footlong Turkey Breast & Ham,560,1640,16,8,36.0
+Subway,"6"" Turkey Italiano Melt (with Provolone)",490,1480,8,24,24.0
+Subway,Footlong Turkey Italiano Melt (with Provolone),980,2960,16,48,48.0
+Subway,Kids Mini Sub Veggie Delite,150,190,4,2,6.0
+Subway,"6"" Veggie Delite",230,310,6,3,8.0
+Subway,Footlong Veggie Delite,460,620,12,6,16.0
+Subway,"6"" Veggie Patty",390,800,8,7,23.0
+Subway,Footlong Veggie Patty,780,1600,16,14,46.0
+Subway,Autumn Carved Turkey Salad,300,1120,22,9,25.0
+Subway,B.L.T. Salad,150,420,5,8,10.0
+Subway,Big Hot Pastrami Melt Salad,400,1250,4,29,23.0
+Subway,Big Philly Cheesesteak Salad,330,1080,6,16,32.0
+Subway,Black Forest Ham Salad,110,590,6,3,12.0
+Subway,Buffalo Chicken Salad (with Ranch dressing),360,1100,6,26,20.0
+Subway,Carved Turkey & Bacon w/ Cheese Salad,280,1320,5,12,28.0
+Subway,Carved Turkey Salad,150,680,3,4,19.0
+Subway,Chicken & Bacon Ranch Melt Salad (includes Ranch dressing),510,1040,7,38,30.0
+Subway,Cold Cut Combo Salad,180,820,5,11,12.0
+Subway,Double Chicken Salad,220,490,4,5,36.0
+Subway,Italian B.M.T.® Salad,230,1060,6,15,14.0
+Subway,Italian Hero Salad,230,1060,8,15,14.0
+Subway,Meatball Marinara Salad,310,720,10,17,16.0
+Subway,Oven Roasted Chicken Salad,140,280,4,3,19.0
+Subway,Roast Beef Salad,140,450,5,4,18.0
+Subway,Spicy Italian Salad,310,1280,6,23,15.0
+Subway,Steak & Cheese Salad,210,830,6,8,20.0
+Subway,Subway Club Salad,140,640,5,4,17.0
+Subway,Subway Melt® Salad,200,910,6,10,18.0
+Subway,Sweet Onion Chicken Teriyaki Salad,200,660,16,3,20.0
+Subway,Tuna Salad,310,370,4,24,15.0
+Subway,Turkey Breast & Ham Salad,110,580,5,3,12.0
+Subway,Turkey Breast Salad,110,570,5,2,12.0
+Subway,Veggie Delite Salad,50,65,4,1,3.0
+Subway,Chipotle Southwest Steak & Cheese Wrap,760,2250,7,37,43.0
+Subway,Rotisserie-Style Chicken Caesar Wrap,730,1900,4,34,55.0
+Subway,"Turkey, Bacon & Guacamole Wrap",810,2970,6,42,43.0
+Subway,Cheese & Veggies Pizza,740,1270,9,25,36.0
+Subway,Cheese Pizza,680,1070,7,22,32.0
+Subway,Pepperoni Pizza,790,1350,8,32,38.0
+Subway,Sausage Pizza,820,1420,8,34,39.0
+Taco Bell,1/2 lb.* Cheesy Potato Burrito,540,1360,4,26,19.0
+Taco Bell,1/2 lb.* Combo Burrito,460,1320,3,18,21.0
+Taco Bell,7-Layer Burrito,510,1090,4,19,16.0
+Taco Bell,Bean Burrito,370,960,3,11,13.0
+Taco Bell,Beefy 5-Layer Burrito,550,1270,5,22,19.0
+Taco Bell,Beefy Fritos® Burrito,440,1030,3,18,13.0
+Taco Bell,Black Bean Burrito,410,1100,3,12,14.0
+Taco Bell,Burrito Supreme® – Beef,420,1090,5,16,16.0
+Taco Bell,Burrito Supreme® - Chicken,390,1050,5,12,19.0
+Taco Bell,Burrito Supreme® - Steak,390,1090,5,13,17.0
+Taco Bell,Cantina Power Burrito - Chicken,760,1960,7,27,32.0
+Taco Bell,Cantina Power Burrito - Steak,780,1900,7,28,33.0
+Taco Bell,Cantina Power Burrito - Veggie,740,1750,8,26,20.0
+Taco Bell,Cheesy Bean and Rice Burrito,420,930,4,17,11.0
+Taco Bell,Chili Cheese Burrito,380,930,2,17,16.0
+Taco Bell,Chicken Crunchy Cheesy Core Burrito,610,1510,5,24,25.0
+Taco Bell,Steak Crunchy Cheesy Core Burrito,610,1520,5,24,25.0
+Taco Bell,Beef Crunchy Cheesy Core Burrito,630,1530,5,26,22.0
+Taco Bell,Loaded Taco Burrito,550,1130,4,29,20.0
+Taco Bell,Chicken Quesarito,620,1440,4,30,24.0
+Taco Bell,Steak Quesarito,630,1410,4,31,25.0
+Taco Bell,Beef Quesarito,650,1450,5,34,22.0
+Taco Bell,Shredded Chicken Burrito,400,960,3,18,16.0
+Taco Bell,Smothered Burrito - Beef,710,2260,4,35,28.0
+Taco Bell,Smothered Burrito - Shredded Chicken,650,2230,4,28,34.0
+Taco Bell,Smothered Burrito - Steak,670,2080,4,29,35.0
+Taco Bell,Chicken Spicy Cheesy Core Burrito,540,1740,5,20,24.0
+Taco Bell,Steak Spicy Cheesy Core Burrito,550,1750,5,21,24.0
+Taco Bell,Beef Spicy Cheesy Core Burrito,570,1760,5,23,22.0
+Taco Bell,Triple Melt Burrito,410,1030,3,16,15.0
+Taco Bell,XXL Grilled Stuft Burrito - Beef,880,2020,6,42,31.0
+Taco Bell,XXL Grilled Stuft Burrito - Chicken,830,1940,6,35,37.0
+Taco Bell,XXL Grilled Stuft Burrito - Steak,820,2020,7,36,33.0
+Taco Bell,Chicken Soft Taco,170,460,1,6,12.0
+Taco Bell,Cool Ranch® Doritos® Double Decker® Taco,320,770,2,14,13.0
+Taco Bell,Cool Ranch® Doritos® Locos Taco,160,350,1,10,8.0
+Taco Bell,Cool Ranch® Doritos® Locos Taco Supreme,200,370,3,12,9.0
+Taco Bell,Crunchy Taco,170,290,1,10,8.0
+Taco Bell,Crunchy Taco Supreme®,200,320,2,12,9.0
+Taco Bell,Double Decker® Taco,320,640,2,14,13.0
+Taco Bell,DOUBLE DECKER® Taco Supreme®,350,670,3,16,14.0
+Taco Bell,Spicy Sweet Double Stacked Taco,340,640,6,18,12.0
+Taco Bell,Cool Ranch Habanero Double Stacked Taco,350,630,3,20,13.0
+Taco Bell,Nacho Crunch Double Stacked Taco,380,650,2,19,13.0
+Taco Bell,Fiery Doritos® Double Decker® Taco,320,770,2,13,14.0
+Taco Bell,Fiery Doritos® Locos Taco,170,370,1,10,8.0
+Taco Bell,Fiery Doritos® Locos Taco Supreme,200,390,2,12,9.0
+Taco Bell,Grilled Steak Soft Taco,250,550,2,14,11.0
+Taco Bell,Nacho Cheese Doritos® Double Decker® Taco,320,760,2,13,14.0
+Taco Bell,Nacho Cheese Doritos® Locos Tacos,170,340,1,9,8.0
+Taco Bell,Nacho Cheese Doritos® Locos Tacos Supreme,200,370,2,11,9.0
+Taco Bell,Soft Taco Supreme® – Beef,230,530,3,11,10.0
+Taco Bell,Soft Taco-Beef,200,510,1,9,10.0
+Taco Bell,Spicy Potato Soft Taco,250,510,1,13,6.0
+Taco Bell,Chalupa Supreme® - Chicken,340,530,4,18,16.0
+Taco Bell,Chalupa Supreme® - Steak,340,570,4,18,14.0
+Taco Bell,Chalupa Supreme®–Beef,370,570,4,21,13.0
+Taco Bell,Double Chalupa,600,1010,5,35,21.0
+Taco Bell,Wild Naked Chicken Chalupa,420,1070,2,28,19.0
+Taco Bell,Mild Naked Chicken Chalupa,440,1090,1,30,20.0
+Taco Bell,Spicy Double Chalupa,600,1240,5,35,21.0
+Taco Bell,Fresco Bean Burrito,350,950,3,9,11.0
+Taco Bell,Fresco Burrito Supreme® – Chicken,340,1020,4,8,17.0
+Taco Bell,Fresco Burrito Supreme® – Steak,340,1060,4,9,15.0
+Taco Bell,Fresco Chicken Soft Taco,150,460,2,4,11.0
+Taco Bell,Fresco Crunchy Taco,140,290,1,8,6.0
+Taco Bell,Fresco Grilled Steak Soft Taco,150,500,2,4,9.0
+Taco Bell,Fresco Soft Taco,170,500,2,7,8.0
+Taco Bell,Cheesy Gordita Crunch,490,810,6,29,20.0
+Taco Bell,Doritos® Cheesy Gordita Crunch - Cool Ranch,490,890,5,28,20.0
+Taco Bell,Doritos® Cheesy Gordita Crunch - Fiery,490,890,4,28,20.0
+Taco Bell,Doritos® Cheesy Gordita Crunch - Nacho Cheese,490,880,5,28,20.0
+Taco Bell,Double Cheesy Gordita Crunch,570,1110,5,32,25.0
+Taco Bell,Gordita Supreme® – Beef,300,550,6,14,13.0
+Taco Bell,Gordita Supreme® - Chicken,270,510,6,10,16.0
+Taco Bell,Gordita Supreme® - Steak,270,550,6,11,14.0
+Taco Bell,Nacho Fries Bellgrande,710,1420,4,41,13.0
+Taco Bell,Nachos BellGrande®,760,1100,5,39,18.0
+Taco Bell,Nachos Supreme,430,690,3,23,12.0
+Taco Bell,Triple Layer Nachos,320,600,2,15,7.0
+Taco Bell,Triple Melt Nachos,260,550,1,16,10.0
+Taco Bell,Beefy Cheddar Crunchwrap Slider,410,960,3,19,14.0
+Taco Bell,Beefy Mini Quesadilla,210,560,1,12,9.0
+Taco Bell,Beefy Nacho Griller,420,870,3,19,12.0
+Taco Bell,BLT Crunchwrap Slider,430,900,4,23,12.0
+Taco Bell,Cantina Power Bowl - Chicken,560,1520,4,22,26.0
+Taco Bell,Cantina Power Bowl - Steak,580,1460,4,23,27.0
+Taco Bell,Cantina Power Bowl - Veggie,540,1310,4,21,14.0
+Taco Bell,Cheese Quesadilla,480,1000,3,27,19.0
+Taco Bell,Cheese Roll-Up,190,450,1,9,9.0
+Taco Bell,Chicken Quesadilla,520,1210,3,28,27.0
+Taco Bell,Chickstar,620,1290,4,37,17.0
+Taco Bell,Chili Cheese Burrito,380,930,2,17,16.0
+Taco Bell,Chipotle Crispy Chicken Griller,290,640,1,18,9.0
+Taco Bell,Crispy Chicken Quesadilla,650,1480,3,37,26.0
+Taco Bell,Crunchwrap Supreme®,540,1110,7,21,16.0
+Taco Bell,Double Tostada,270,650,2,11,12.0
+Taco Bell,Express Taco Salad w/ Chips,580,1270,7,29,23.0
+Taco Bell,Loaded Potato Griller,470,1120,5,22,13.0
+Taco Bell,Mexican Pizza,540,860,2,31,20.0
+Taco Bell,MexiMelt®,270,740,2,14,14.0
+Taco Bell,Steak Quesalupa,440,840,3,23,22.0
+Taco Bell,Chicken Quesalupa,440,840,3,23,22.0
+Taco Bell,Beef Quesalupa,460,890,3,26,19.0
+Taco Bell,Shredded Chicken Mini Quesadilla,180,540,1,8,12.0
+Taco Bell,Spicy Chicken Crunchwrap Slider,400,900,3,20,15.0
+Taco Bell,Spicy Tostada,200,440,1,10,7.0
+Taco Bell,Stacker,390,1050,3,18,18.0
+Taco Bell,Steak Quesadilla,520,1250,3,28,25.0
+Taco Bell,Original Triple Double Crunchwrap,700,1550,7,30,23.0
+Taco Bell,Spicy Triple Double Crunchwrap,780,1850,8,38,23.0
+Taco Bell,Express Taco Salad w/ Chips,580,1270,7,29,23.0
+Taco Bell,Fiesta Taco Salad-Beef,780,1340,7,42,26.0
+Taco Bell,Fiesta Taco Salad-Chicken,720,1260,8,35,32.0
+Taco Bell,Fiesta Taco Salad-Steak,720,1340,8,36,28.0
+burgerking,BLT풍치킨버거,642,1217,3.0,6,28
+burgerking,BLT통다리치킨버거,911,1435,11.1,11,34
+burgerking,더블와퍼,842,1198,10.5,20.2,45
+burgerking,더콰트로치즈X,879,1643,6.1,23,41
+burgerking,더콰트로치즈,834,1133,4.0,23,42
+burgerking,디아블로킹치킨버거,462,923,5.4,5,20
+burgerking,롱치킨디럭스,579,1100,7.7,5.5,25
+burgerking,롱치킨버거,571,1100,5.7,5.5,25
+burgerking,메가몬스터X,1420,2319,16.9,28,60
+burgerking,몬스터와퍼,1055,1881,16.9,23.1,52
+burgerking,몬스터X,1140,2222,18.6,27.6,51
+burgerking,베이컨치즈와퍼,780,1368,7.5,19,37
+burgerking,불고기통치킨버거,712,805,2.7,11,26
+burgerking,불고기버거,371,432,9.9,8,17
+burgerking,불고기와퍼,682,912,5.7,14,28
+burgerking,불고기와퍼주니어,380,523,3.6,8,18
+burgerking,아기상어새우버거,474,1226,6.5,6,14
+burgerking,아빠상어새우버거,594,1261,6.6,9,24
+burgerking,엄마상어새우버거,459,1257,7.8,5,15
+burgerking,와퍼,619,809,10.5,13,29
+burgerking,와퍼주니어,399,570,4.6,8,17
+burgerking,치즈버거,366,752,5.9,9,19
+burgerking,치즈와퍼,716,1288,7.1,16,33
+burgerking,치즈와퍼주니어,438,771,4.8,10,19
+burgerking,콰트로치즈와퍼,769,1051,6.2,20,40
+burgerking,콰트로치즈와퍼주니어,446,631,3.1,10,21
+burgerking,킹치킨버거,532,714,2.7,7,20
+burgerking,통다리치킨버거,821,1287,10.1,10,29
+burgerking,통모짜X,1033,1529,16.7,20,46
+burgerking,통모짜와퍼,1058,1465,15.3,21,51
+burgerking,통모짜와퍼주니어,699,1013,10.4,14,30
+burgerking,통새우스테이크버거,851,1565,9.8,22,33
+burgerking,통새우와퍼,741,984,4.8,15,34
+burgerking,통새우와퍼주니어,381,522,5.0,7.3,21
+burgerking,트러플머쉬룸와퍼,738,1254,8.0,12,29
+burgerking,트러플머쉬룸와퍼주니어,404,554,7.2,7,16
+burgerking,트러플머쉬룸X,776,1311,14.7,14,33
+burgerking,트러플토모찌와퍼,1088,1221,12.8,23,51
+burgerking,허니칠리킹치킨버거,477,751,5.3,6,20
+burgerking,스테이크패티 추가,309,425,0.7,11.1,19
+burgerking,와퍼패터 추가,223,389,0.0,7,16
+burgerking,버거패티 추가,114,199,0.0,3.7,8
+burgerking,치즈 1장 추가,41,197,0.0,2.2,3
+burgerking,베이컨 2장 추가,26,50,0.0,0.7,2
+burgerking,베이컨 4장 추가,53,100,0.0,1.5,3
+burgerking,스위트칠리소스,50,205,10.2,0,0
+burgerking,까망베르치즈소스[pouch],133,280,1.2,2.3,1
+burgerking,디아블로소스[pouch],39,293,7.4,0,0
+burgerking,케찹[pouch],11,107,2.3,0,0
+burgerking,허니머스타드[pouch],32,60,3.1,0,0
+burgerking,할라피뇨 2개 추가,3,54,0.5,0,0.04
+burgerking,할라피뇨 4개 추가,6,108,1.0,0,0.08
+burgerking,21치즈스틱,155,251,1.5,3,5
+burgerking,너겟킹((4조각),139,289,0.4,2,6
+burgerking,너겟킹(6조각),210,434,0.6,3,8
+burgerking,너겟킹(10조각),347,723,1.0,5,14
+burgerking,바삭킹(2조각),272,497,1.7,5.0,15
+burgerking,바삭킹(4조각),544,993,3.4,10.0,29
+burgerking,바삭킹(8조각),1088,1986,6.7,20.1,59
+burgerking,어니언링,332,476,2.5,3,5
+burgerking,치즈프라이,440,447,1.8,8,12
+burgerking,코울슬로,130,218,13.2,0.9,1
+burgerking,코코넛쉬림프(3조각),81,177,1.7,0.9,6
+burgerking,코코넛쉬림프(6조각),162,353,3.4,1.7,12
+burgerking,코코넛쉬림프(9조각),243,531,5.1,2.6,18
+burgerking,콘샐러드,189,226,5.3,1,2
+burgerking,크리미모짜볼(5조각),198,124,4.0,1,7
+burgerking,크리미모짜볼(10조각),395,248,9.0,1,14
+burgerking,트러플프라이,445,496,0.3,9,10
+burgerking,프랜치프라이(L),377,432,0.4,4,5
+burgerking,프랜치프라이(R),285,326,0.3,3,4
+burgerking,해쉬브라운,169,263,0.0,3,2
+burgerking,미닛메이드 오렌지(350ml PET),172,11,36.0,0,0
+burgerking,스프라이트(L),237,32,60.0,0,0
+burgerking,스프라이트(R),165,23,42.1,0,0
+burgerking,씨그램,0,11,0.0,0,0
+burgerking,제로톡톡 복숭아,0,10,0.0,0,0
+burgerking,제로톡톡 청포도,0,10,0.0,0,0
+burgerking,제로톡톡 체리,0,10,0.0,0,0
+burgerking,코카콜라(L),215,22,55.9,0,0
+burgerking,코카콜라(R),150,15,39.1,0,0
+burgerking,코카콜라 제로(L),0,43,0.0,0,0
+burgerking,코카콜라 제로(R),0,30,0.0,0,0
+burgerking,아메리카노,6,0,0.0,0,0
+lotteria,데리버거,348,590,10,4.9,12
+lotteria,치킨버거,355,619,8,3.8,15
+lotteria,치킨_버거,355,619,8,3.8,15
+lotteria,T-REX버거,475,874,7,5.4,26
+lotteria,리아미라클Ⅱ버거,352,550,9,4.0,15
+lotteria,더블리아미라클Ⅱ버거,520,880,11,7.0,24
+lotteria,새우버거,492,810,7,4.7,15
+lotteria,새우_버거,492,810,7,4.7,15
+lotteria,사각새우더블버거,556,962,7,5.1,17
+lotteria,사각_새우더블버거,556,962,7,5.1,17
+lotteria,모짜렐라 인더 버거-베이컨,699,1020,6,16.0,30
+lotteria,불고기버거,476,778,10,7.2,20
+lotteria,전주비빔라이스버거,572,1460,8,8,17
+lotteria,핫크리스피버거,503,929,5,7.3,22
+lotteria,DoubleX2버거,716,1070,7,25,25
+lotteria,불고기 익스트림 오징어,650,1070,14,8,29
+lotteria,불고기 베이컨,522,840,11,9,22
+lotteria,새우 익스트림 레몬크림,534,910,12,4.1,17
+lotteria,새우_익스트림 레몬크림,534,910,12,4.1,17
+lotteria,새우 베이컨,538,870,7,6,17
+lotteria,새우_베이컨,538,870,7,6,17
+lotteria,더블 데리버거,446,740,10,7.0,19
+lotteria,더블 치킨버거,478,950,11,5.0,24
+lotteria,더블_치킨버거,478,950,11,5.0,24
+lotteria,더블 클래식치즈버거,731,1110,6,25.0,25
+lotteria,마라로드치킨,573,1210,14,6,27
+lotteria,마라로드새우,509,1100,14,4.2,13
+lotteria,마라로드_새우,509,1100,14,4.2,13
+lotteria,마라로드비프,661,970,13,16,20
+lotteria,왕돈까스버거,901,1570,14,8,35
+lotteria,매운 왕돈까스버거,903,1580,15,8,35
+lotteria,한우불고기버거,572,797,15,12.0,24
+lotteria,더블한우불고기버거,802,1150,18,20.0,48
+lotteria,한우트러플머쉬룸버거,584,985,18,14.7,25
+lotteria,빅불버거,761,1370,12,16,36
+lotteria,클래식치즈버거_(버터번),492,770,5,14,16
+lotteria,힙&핫치킨버거,597,1473,20,7.6,25
+lotteria,포테이토,267,322,0,3.2,4
+lotteria,포테이토(L),389,471,0,4.7,6
+lotteria,웨지포테이토,242,174,0,0.5,3
+lotteria,치킨너겟,198,361,0,3.3,12
+lotteria,양념감자(오니언),365,544,1,4.2,5
+lotteria,양념감자(치즈),365,544,2,4.4,5
+lotteria,양념감자(칠리),358,584,1,4.2,5
+lotteria,내츄럴치즈스틱,160,183,0,2.6,9
+lotteria,롱치즈스틱,156,236,0,7.0,8
+lotteria,모짜크림치즈볼,218,177,6,4.4,3
+lotteria,콘샐러드,146,190,1,1.3,2
+lotteria,청주 매운만두 4조각,330,420,3,4.7,10
+lotteria,청주 미친만두 4조각,346,480,3,4.9,10
+lotteria,청주 섞미만두,338,450,3,4.8,10
+lotteria,청주 매운만두 2조각,165,210,2,2.3,5
+lotteria,청주 미친만두 2조각,173,240,2,2.5,5
+lotteria,깡돼후 돼지후라이드,540,930,15,6,19
+lotteria,깡돼후 돼지후라이드 콤보,667,945,46,6,19
+lotteria,허니머스타드,25,70,2,0.3,0
+lotteria,통오징어링,179,333,1,0.8,8
+lotteria,시나몬 슈가 시즈닝,16,0,4,0.0,0
+lotteria,잠발라야소스,33,121,7,0.0,0
+lotteria,롯데리아빙수(보냉X),602,150,98,3.4,9
+lotteria,롯데리아빙수(보냉o),602,150,98,3.4,9
+lotteria,토네이토초코쿠키,305,140,31,8.0,4
+lotteria,토네이토스트로베리,268,70,34,7.0,3
+lotteria,토네이도 허쉬초코,313,75,40,8.0,4
+lotteria,토네이도 더블초코,345,145,40,9,5
+lotteria,지파이 고소한맛(S),422,656,1,6.8,20
+lotteria,지파이 하바네로(L),566,1180,0,9.8,28
+lotteria,페스츄리꽈배기,450,437,8,9.5,8
+lotteria,페스츄리꽈배기 시나몬,466,437,12,9.5,8
+lotteria,꽈배기콤보 플레인,688,527,37,15.2,15
+lotteria,꽈배기콤보 시나몬,704,527,41,15.2,15
+lotteria,스위트앤사워,24,53,4,0.0,0
+lotteria,칠리 시즈닝,8,160,1,0.0,0
+lotteria,어니언 시즈닝,15,120,1,0.0,0
+lotteria,치즈시즈닝,15,130,2,0.2,0
+lotteria,갈비맛소스,87,410,13,0,0
+lotteria,크리미마늘소스,112,230,8,1.4,0
+lotteria,크리미양념소스,99,360,9,0.7,0
+lotteria,데리야끼소스,70,390,10,0.0,1
+lotteria,머스타드소스,91,150,5,1.0,0
+lotteria,핫소스,102,162,9,0.2,0
+lotteria,필로우 돈까스소스 30G,32,200,5,0,0
+lotteria,필로우 매운돈까스소스 30G,36,210,7,0,0
+lotteria,쉑쉑치킨(오니언),259,353,2,2.5,15
+lotteria,쉑쉑치킨(치즈),259,363,3,2.7,16
+lotteria,쉑쉑치킨(칠리),252,393,1,2.5,15
+lotteria,치킨 1조각 ,272,694,2,4.1,18
+lotteria,1인혼닭,568 ,1594,1 ,8.4,61
+lotteria,치킨풀팩 - 콘샐러드,2590 ,6439,15 ,38.3,166
+lotteria,치킨풀팩 - 포테이토,2711 ,6571,14 ,40.2,168
+lotteria,치킨하프팩 - 콘샐러드,1232 ,2967,8 ,17.8,75
+lotteria,치킨하프팩 - 포테이토,1353 ,3100,6 ,19.6,77
+lotteria,치킨패밀리팩_포테이토,1714 ,3744,6 ,24.0,100
+lotteria,치킨패밀리팩_콘샐러드,1594 ,3612,8 ,22.1,98
+lotteria,치킨휠레2조각,183,370,0,1.9,15
+lotteria,치킨휠레4조각,366,740,0,3.8,29
+lotteria,화이어윙2조각,178,275,0,2.5,9
+lotteria,화이어윙4조각,357,549,0,5.0,17
+lotteria,순살치킨하프,739,1341,3,13.0,36
+lotteria,순살치킨풀팩,1477,2682,6,26.0,71
+lotteria,비프패티토핑,172,155,0,6.6,7
+lotteria,반숙계란 토핑,41,204,0.1,0.4,4
+lotteria,베이컨토핑,42,58,0,1.7,2
+lotteria,토마토토핑,4,1,1,0.0,0
+lotteria,화이트치즈 토핑,60,140,0,3.0,3
+lotteria,치킨무,13,116,2,0.0,0
+lotteria,치즈토핑,66,174,0,4.0,3
+lotteria,더블팩 - 콜라,2073,2489,154,21.9,56
+lotteria,더블팩 - 사이다,2073,2489,154,21.9,56
+lotteria,투게더팩 - 콜라,1977,2196,164,20.1,43
+lotteria,투게더_팩_콜라,1977,2196,164,20.1,43
+lotteria,투게더팩 - 사이다,1977,2196,164,20.1,43
+lotteria,투게더_팩_사이다,1977,2196,164,20.1,43
+lotteria,패밀리팩 - 콜라,2790,3526,167,36.2,84
+lotteria,패밀리팩 - 사이다,2790,3526,167,36.2,84
+lotteria,제로슈거콜라,0,56,0,0.0,0
+lotteria,제로슈거콜라(L),0,77,0,0.0,0
+lotteria,콜라,127,15,31,0.0,0
+lotteria,콜라(L),173,20,42,0.0,0
+lotteria,사이다,133,7,31,0.0,0
+lotteria,사이다(L),182,9,42,0.0,0
+lotteria,레몬에이드,151,20,34,0.0,0
+lotteria,레몬에이드(L),217,29,49,0.0,0
+lotteria,미숫가루라떼 R,238,91,29,5.7,7
+lotteria,미숫가루라떼 L,339,131,40,8.2,11
+lotteria,복숭아홍차에이드 R,160,10,38,0,0
+lotteria,복숭아홍차에이드 L,224,10,53,0,0
+lotteria,자두쿨에이드 R,162,20,36,0.1,0
+lotteria,자두쿨에이드 L,226,25,51,0.1,0
+lotteria,아이스티,160,0,39,0.0,0
+lotteria,아이스티(L),232,0,57,0.0,0
+lotteria,캐모마일 티,2,0,0,0,0
+lotteria,애플 캐모마일 티,129,10,27,0,0
+lotteria,아메리카노,34,2,0,0.5,1
+lotteria,카페라떼,206,105,12,5.6,11
+lotteria,아이스아메리카노,32,2,0,0.5,1
+lotteria,아이스아메리카노(L),55,3,0,0.8,2
+lotteria,아이스카페라떼,106,40,5,2.1,5
+macdonald,Egg McMuffin,300,750,3,13.0,17
+macdonald,Egg White Delight,250,770,3,8.0,18
+macdonald,Sausage McMuffin,370,780,2,23.0,14
+macdonald,Sausage McMuffin with Egg,450,860,2,28.0,21
+macdonald,Sausage McMuffin with Egg Whites,400,880,2,23.0,21
+macdonald,Steak & Egg McMuffin,430,960,3,23.0,26
+macdonald,"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",460,1300,3,26.0,19
+macdonald,"Bacon, Egg & Cheese Biscuit (Large Biscuit)",520,1410,4,30.0,19
+macdonald,"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",410,1300,3,20.0,20
+macdonald,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",470,1420,4,25.0,20
+macdonald,Sausage Biscuit (Regular Biscuit),430,1080,2,27.0,11
+macdonald,Sausage Biscuit (Large Biscuit),480,1190,3,31.0,11
+macdonald,Sausage Biscuit with Egg (Regular Biscuit),510,1170,2,33.0,18
+macdonald,Sausage Biscuit with Egg (Large Biscuit),570,1280,3,37.0,18
+macdonald,Sausage Biscuit with Egg Whites (Regular Biscuit),460,1180,3,27.0,18
+macdonald,Sausage Biscuit with Egg Whites (Large Biscuit),520,1290,3,32.0,18
+macdonald,Southern Style Chicken Biscuit (Regular Biscuit),410,1180,3,20.0,17
+macdonald,Southern Style Chicken Biscuit (Large Biscuit),470,1290,4,24.0,17
+macdonald,Steak & Egg Biscuit (Regular Biscuit),540,1470,3,32.0,25
+macdonald,"Bacon, Egg & Cheese McGriddles",460,1250,15,21.0,19
+macdonald,"Bacon, Egg & Cheese McGriddles with Egg Whites",400,1250,16,15.0,20
+macdonald,Sausage McGriddles,420,1030,15,22.0,11
+macdonald,"Sausage, Egg & Cheese McGriddles",550,1320,15,31.0,20
+macdonald,"Sausage, Egg & Cheese McGriddles with Egg Whites",500,1320,15,26.0,21
+macdonald,"Bacon, Egg & Cheese Bagel",620,1480,7,31.0,30
+macdonald,"Bacon, Egg & Cheese Bagel with Egg Whites",570,1480,8,25.0,30
+macdonald,"Steak, Egg & Cheese Bagel",670,1510,7,35.0,33
+macdonald,Big Breakfast (Regular Biscuit),740,1560,3,48.0,28
+macdonald,Big Breakfast (Large Biscuit),800,1680,3,52.0,28
+macdonald,Big Breakfast with Egg Whites (Regular Biscuit),640,1590,3,37.0,26
+macdonald,Big Breakfast with Egg Whites (Large Biscuit),690,1700,4,41.0,26
+macdonald,Big Breakfast with Hotcakes (Regular Biscuit),1090,2150,17,56.0,36
+macdonald,Big Breakfast with Hotcakes (Large Biscuit),1150,2260,17,60.0,36
+macdonald,Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),990,2170,17,46.0,35
+macdonald,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),1050,2290,18,50.0,35
+macdonald,Hotcakes,350,590,14,9.0,8
+macdonald,Hotcakes and Sausage,520,930,14,24.0,15
+macdonald,Sausage Burrito,300,790,2,16.0,12
+macdonald,Hash Brown,150,310,0,9.0,1
+macdonald,Cinnamon Melts,460,370,32,19.0,6
+macdonald,Fruit & Maple Oatmeal,290,160,32,4.0,5
+macdonald,Fruit & Maple Oatmeal without Brown Sugar,260,115,18,4.0,5
+macdonald,Big Mac,530,960,9,27.0,24
+macdonald,Quarter Pounder with Cheese,520,1100,10,26.0,30
+macdonald,Quarter Pounder with Bacon & Cheese,600,1440,12,29.0,37
+macdonald,Quarter Pounder with Bacon Habanero Ranch,610,1180,10,31.0,37
+macdonald,Quarter Pounder Deluxe,540,960,9,27.0,29
+macdonald,Double Quarter Pounder with Cheese,750,1280,10,43.0,48
+macdonald,Hamburger,240,480,6,8.0,12
+macdonald,Cheeseburger,290,680,7,11.0,15
+macdonald,Double Cheeseburger,430,1040,7,21.0,24
+macdonald,Bacon Clubhouse Burger,720,1470,14,40.0,39
+macdonald,McDouble,380,840,7,17.0,22
+macdonald,Bacon McDouble,440,1110,7,22.0,27
+macdonald,Daily Double,430,760,7,22.0,22
+macdonald,Jalapeño Double,430,1030,6,23.0,22
+macdonald,McRib,500,980,11,26.0,22
+macdonald,Premium Crispy Chicken Classic Sandwich,510,990,10,22.0,24
+macdonald,Premium Grilled Chicken Classic Sandwich,350,820,8,9.0,28
+macdonald,Premium Crispy Chicken Club Sandwich,670,1410,11,33.0,36
+macdonald,Premium Grilled Chicken Club Sandwich,510,1250,9,20.0,40
+macdonald,Premium Crispy Chicken Ranch BLT Sandwich,610,1400,11,28.0,32
+macdonald,Premium Grilled Chicken Ranch BLT Sandwich,450,1230,9,15.0,36
+macdonald,Bacon Clubhouse Crispy Chicken Sandwich,750,1720,16,38.0,36
+macdonald,Bacon Clubhouse Grilled Chicken Sandwich,590,1560,14,25.0,40
+macdonald,Southern Style Crispy Chicken Sandwich,430,910,7,19.0,21
+macdonald,McChicken,360,800,5,16.0,14
+macdonald,Bacon Cheddar McChicken,480,1260,6,24.0,22
+macdonald,Bacon Buffalo Ranch McChicken,430,1260,6,21.0,20
+macdonald,Buffalo Ranch McChicken,360,990,5,16.0,14
+macdonald,Premium McWrap Chicken & Bacon (Crispy Chicken),630,1540,7,32.0,32
+macdonald,Premium McWrap Chicken & Bacon (Grilled Chicken),480,1370,6,19.0,36
+macdonald,Premium McWrap Chicken & Ranch (Crispy Chicken),610,1340,8,31.0,27
+macdonald,Premium McWrap Chicken & Ranch (Grilled Chicken),450,1170,6,18.0,30
+macdonald,Premium McWrap Southwest Chicken (Crispy Chicken),670,1480,12,33.0,27
+macdonald,Premium McWrap Southwest Chicken (Grilled Chicken),520,1320,10,20.0,31
+macdonald,Premium McWrap Chicken Sweet Chili (Crispy Chicken),540,1260,14,23.0,23
+macdonald,Premium McWrap Chicken Sweet Chili (Grilled Chicken),380,1090,12,10.0,27
+macdonald,Chicken McNuggets (4 piece),190,360,0,12.0,9
+macdonald,Chicken McNuggets (6 piece),280,540,0,18.0,13
+macdonald,Chicken McNuggets (10 piece),470,900,0,30.0,22
+macdonald,Chicken McNuggets (20 piece),940,1800,0,59.0,44
+macdonald,Chicken McNuggets (40 piece),1880,3600,1,118.0,87
+macdonald,Filet-O-Fish,390,590,5,19.0,15
+macdonald,Premium Bacon Ranch Salad (without Chicken),140,300,4,7.0,9
+macdonald,Premium Bacon Ranch Salad with Crispy Chicken,380,860,5,21.0,25
+macdonald,Premium Bacon Ranch Salad with Grilled Chicken,220,690,4,8.0,29
+macdonald,Premium Southwest Salad (without Chicken),140,150,6,4.5,6
+macdonald,Premium Southwest Salad with Crispy Chicken,450,850,12,22.0,23
+macdonald,Premium Southwest Salad with Grilled Chicken,290,680,10,8.0,27
+macdonald,Chipotle BBQ Snack Wrap (Crispy Chicken),340,780,8,15.0,14
+macdonald,Chipotle BBQ Snack Wrap (Grilled Chicken),260,700,7,8.0,16
+macdonald,Honey Mustard Snack Wrap (Crispy Chicken),330,730,3,15.0,14
+macdonald,Honey Mustard Snack Wrap (Grilled Chicken),250,650,2,8.0,16
+macdonald,Ranch Snack Wrap (Crispy Chicken),360,810,3,20.0,15
+macdonald,Ranch Snack Wrap (Grilled Chicken),280,720,2,13.0,16
+macdonald,Small French Fries,230,130,0,11.0,2
+macdonald,Medium French Fries,340,190,0,16.0,4
+macdonald,Large French Fries,510,290,0,24.0,6
+macdonald,Kids French Fries,110,65,0,5.0,1
+macdonald,Side Salad,20,10,2,0.0,1
+macdonald,Apple Slices,15,0,3,0.0,0
+macdonald,Fruit 'n Yogurt Parfait,150,70,23,2.0,4
+macdonald,Baked Apple Pie,250,170,13,13.0,2
+macdonald,Chocolate Chip Cookie,160,90,15,8.0,2
+macdonald,Oatmeal Raisin Cookie,150,135,13,6.0,2
+macdonald,Kids Ice Cream Cone,45,20,6,1.5,1
+macdonald,Hot Fudge Sundae,330,170,48,9.0,8
+macdonald,Hot Caramel Sundae,340,150,43,8.0,7
+macdonald,Strawberry Sundae,280,85,45,6.0,6
+macdonald,Coca-Cola Classic (Small),140,0,39,0.0,0
+macdonald,Coca-Cola Classic (Medium),200,5,55,0.0,0
+macdonald,Coca-Cola Classic (Large),280,5,76,0.0,0
+macdonald,Coca-Cola Classic (Child),100,0,28,0.0,0
+macdonald,Diet Coke (Small),0,10,0,0.0,0
+macdonald,Diet Coke (Medium),0,20,0,0.0,0
+macdonald,Diet Coke (Large),0,35,0,0.0,0
+macdonald,Diet Coke (Child),0,15,0,0.0,0
+macdonald,Dr Pepper (Small),140,45,35,0.0,0
+macdonald,Dr Pepper (Medium),190,65,51,0.0,0
+macdonald,Dr Pepper (Large),270,90,70,0.0,0
+macdonald,Dr Pepper (Child),100,30,26,0.0,0
+macdonald,Diet Dr Pepper (Small),0,70,0,0.0,2
+macdonald,Diet Dr Pepper (Medium),0,100,0,0.0,3
+macdonald,Diet Dr Pepper (Large),0,140,0,0.0,4
+macdonald,Diet Dr Pepper (Child),0,50,0,0.0,1
+macdonald,Sprite (Small),140,30,37,0.0,0
+macdonald,Sprite (Medium),200,45,54,0.0,0
+macdonald,Sprite (Large),280,60,74,0.0,0
+macdonald,Sprite (Child),100,25,27,0.0,0
+macdonald,1% Low Fat Milk Jug,100,125,12,2.5,8
+macdonald,Fat Free Chocolate Milk Jug,130,135,22,0.0,9
+macdonald,Minute Maid 100% Apple Juice Box,80,15,19,0.0,0
+macdonald,Minute Maid Orange Juice (Small),150,0,30,0.0,2
+macdonald,Minute Maid Orange Juice (Medium),190,0,39,0.0,3
+macdonald,Minute Maid Orange Juice (Large),280,5,58,0.0,4
+macdonald,Dasani Water Bottle,0,0,0,0.0,0
+macdonald,Iced Tea (Small),0,10,0,0.0,0
+macdonald,Iced Tea (Medium),0,10,0,0.0,0
+macdonald,Iced Tea (Large),0,15,0,0.0,0
+macdonald,Iced Tea (Child),0,5,0,0.0,0
+macdonald,Sweet Tea (Small),150,10,36,0.0,1
+macdonald,Sweet Tea (Medium),180,10,45,0.0,1
+macdonald,Sweet Tea (Large),220,10,54,0.0,1
+macdonald,Sweet Tea (Child),110,5,27,0.0,0
+macdonald,Coffee (Small),0,0,0,0.0,0
+macdonald,Coffee (Medium),0,0,0,0.0,0
+macdonald,Coffee (Large),0,0,0,0.0,0
+macdonald,Latte (Small),170,115,12,9.0,9
+macdonald,Latte (Medium),210,140,15,10.0,11
+macdonald,Latte (Large),280,180,20,14.0,15
+macdonald,Caramel Latte (Small),270,115,38,9.0,9
+macdonald,Caramel Latte (Medium),340,140,48,10.0,11
+macdonald,Caramel Latte (Large),430,180,59,14.0,15
+macdonald,Hazelnut Latte (Small),270,115,38,9.0,9
+macdonald,Hazelnut Latte (Medium),330,140,47,10.0,11
+macdonald,Hazelnut Latte (Large),430,180,58,14.0,15
+macdonald,French Vanilla Latte (Small),260,115,36,9.0,9
+macdonald,French Vanilla Latte (Medium),330,140,45,10.0,11
+macdonald,French Vanilla Latte (Large),420,190,56,14.0,15
+macdonald,Latte with Sugar Free French Vanilla Syrup (Small),210,150,12,9.0,9
+macdonald,Latte with Sugar Free French Vanilla Syrup (Medium),260,190,15,10.0,12
+macdonald,Latte with Sugar Free French Vanilla Syrup (Large),330,240,20,14.0,15
+macdonald,Nonfat Latte (Small),100,110,13,0.0,10
+macdonald,Nonfat Latte (Medium),130,135,16,0.0,12
+macdonald,Nonfat Latte (Large),170,180,21,0.5,16
+macdonald,Nonfat Caramel Latte (Small),200,110,39,0.0,10
+macdonald,Nonfat Caramel Latte (Medium),250,135,48,0.0,12
+macdonald,Nonfat Caramel Latte (Large),310,180,59,0.5,16
+macdonald,Nonfat Hazelnut Latte (Small),200,110,38,0.0,10
+macdonald,Nonfat Hazelnut Latte (Medium),250,135,48,0.0,12
+macdonald,Nonfat Hazelnut Latte (Large),310,180,59,0.5,16
+macdonald,Nonfat French Vanilla Latte (Small),190,115,37,0.0,10
+macdonald,Nonfat French Vanilla Latte (Medium),240,140,46,0.0,12
+macdonald,Nonfat French Vanilla Latte (Large),300,180,56,0.5,16
+macdonald,Nonfat Latte with Sugar Free French Vanilla Syrup (Small),140,150,13,0.0,10
+macdonald,Nonfat Latte with Sugar Free French Vanilla Syrup (Medium),170,180,16,0.0,12
+macdonald,Nonfat Latte with Sugar Free French Vanilla Syrup (Large),220,240,21,0.5,16
+macdonald,Mocha (Small),340,150,42,11.0,10
+macdonald,Mocha (Medium),410,190,53,14.0,13
+macdonald,Mocha (Large),500,240,63,17.0,16
+macdonald,Mocha with Nonfat Milk (Small),270,150,43,3.5,11
+macdonald,Mocha with Nonfat Milk (Medium),330,190,53,3.5,13
+macdonald,Mocha with Nonfat Milk (Large),390,240,64,4.0,17
+macdonald,Caramel Mocha (Small),320,170,40,11.0,10
+macdonald,Caramel Mocha (Medium),390,220,50,14.0,12
+macdonald,Caramel Mocha (Large),480,270,60,17.0,16
+macdonald,Nonfat Caramel Mocha (Small),250,170,41,3.5,10
+macdonald,Nonfat Caramel Mocha (Medium),310,210,51,3.5,13
+macdonald,Nonfat Caramel Mocha (Large),370,270,61,3.5,17
+macdonald,Hot Chocolate (Small),360,180,45,13.0,11
+macdonald,Hot Chocolate (Medium),440,220,56,16.0,14
+macdonald,Hot Chocolate (Large),540,280,68,20.0,17
+macdonald,Hot Chocolate with Nonfat Milk (Small),280,180,46,3.5,12
+macdonald,Hot Chocolate with Nonfat Milk (Medium),340,220,57,3.5,14
+macdonald,Hot Chocolate with Nonfat Milk (Large),400,280,69,3.5,19
+macdonald,Regular Iced Coffee (Small),140,35,22,4.5,1
+macdonald,Regular Iced Coffee (Medium),190,50,30,7.0,1
+macdonald,Regular Iced Coffee (Large),270,75,45,9.0,2
+macdonald,Caramel Iced Coffee (Small),130,35,21,4.5,1
+macdonald,Caramel Iced Coffee (Medium),180,50,28,7.0,1
+macdonald,Caramel Iced Coffee (Large),260,65,42,9.0,2
+macdonald,Hazelnut Iced Coffee (Small),130,35,20,4.5,1
+macdonald,Hazelnut Iced Coffee (Medium),180,50,28,7.0,1
+macdonald,Hazelnut Iced Coffee (Large),250,75,41,9.0,2
+macdonald,French Vanilla Iced Coffee (Small),120,40,19,4.5,1
+macdonald,French Vanilla Iced Coffee (Medium),170,55,26,7.0,1
+macdonald,French Vanilla Iced Coffee (Large),240,80,39,9.0,2
+macdonald,Iced Coffee with Sugar Free French Vanilla Syrup (Small),80,65,1,4.5,1
+macdonald,Iced Coffee with Sugar Free French Vanilla Syrup (Medium),120,90,2,7.0,1
+macdonald,Iced Coffee with Sugar Free French Vanilla Syrup (Large),160,135,2,9.0,2
+macdonald,Iced Mocha (Small),290,125,34,11.0,8
+macdonald,Iced Mocha (Medium),350,150,43,13.0,9
+macdonald,Iced Mocha (Large),480,220,62,16.0,14
+macdonald,Iced Mocha with Nonfat Milk (Small),240,125,35,5.0,8
+macdonald,Iced Mocha with Nonfat Milk (Medium),290,150,43,5.0,10
+macdonald,Iced Mocha with Nonfat Milk (Large),390,220,62,6.0,14
+macdonald,Iced Caramel Mocha (Small),280,140,33,11.0,8
+macdonald,Iced Caramel Mocha (Medium),340,170,41,13.0,9
+macdonald,Iced Caramel Mocha (Large),460,250,59,16.0,13
+macdonald,Iced Nonfat Caramel Mocha (Small),230,140,33,5.0,8
+macdonald,Iced Nonfat Caramel Mocha (Medium),270,170,41,5.0,10
+macdonald,Iced Nonfat Caramel Mocha (Large),370,250,59,6.0,14
+macdonald,Frappé Mocha (Small),450,125,57,18.0,7
+macdonald,Frappé Mocha (Medium),550,160,71,22.0,9
+macdonald,Frappé Mocha (Large),670,190,88,26.0,11
+macdonald,Frappé Caramel (Small),450,125,57,19.0,7
+macdonald,Frappé Caramel (Medium),550,160,71,23.0,9
+macdonald,Frappé Caramel (Large),670,190,88,27.0,11
+macdonald,Frappé Chocolate Chip (Small),530,135,67,23.0,8
+macdonald,Frappé Chocolate Chip (Medium),630,160,81,26.0,9
+macdonald,Frappé Chocolate Chip (Large),760,200,99,31.0,12
+macdonald,Blueberry Pomegranate Smoothie (Small),220,40,44,0.5,2
+macdonald,Blueberry Pomegranate Smoothie (Medium),260,50,54,1.0,3
+macdonald,Blueberry Pomegranate Smoothie (Large),340,65,70,1.0,4
+macdonald,Strawberry Banana Smoothie (Small),210,50,44,0.5,3
+macdonald,Strawberry Banana Smoothie (Medium),250,60,54,1.0,4
+macdonald,Strawberry Banana Smoothie (Large),330,80,70,1.0,5
+macdonald,Mango Pineapple Smoothie (Small),210,40,46,0.5,2
+macdonald,Mango Pineapple Smoothie (Medium),260,45,56,1.0,3
+macdonald,Mango Pineapple Smoothie (Large),340,60,72,1.0,4
+macdonald,Vanilla Shake (Small),530,160,63,15.0,11
+macdonald,Vanilla Shake (Medium),660,200,81,19.0,14
+macdonald,Vanilla Shake (Large),820,260,101,23.0,18
+macdonald,Strawberry Shake (Small),550,160,79,16.0,12
+macdonald,Strawberry Shake (Medium),690,210,100,20.0,15
+macdonald,Strawberry Shake (Large),850,260,123,24.0,18
+macdonald,Chocolate Shake (Small),560,240,77,16.0,12
+macdonald,Chocolate Shake (Medium),700,300,97,20.0,15
+macdonald,Chocolate Shake (Large),850,380,120,23.0,19
+macdonald,Shamrock Shake (Medium),660,210,93,19.0,14
+macdonald,Shamrock Shake (Large),820,260,115,23.0,18
+macdonald,McFlurry with M&M’s Candies (Small),650,180,89,23.0,13
+macdonald,McFlurry with M&M’s Candies (Medium),930,260,128,33.0,20
+macdonald,McFlurry with M&M’s Candies (Snack),430,120,59,15.0,9
+macdonald,McFlurry with Oreo Cookies (Small),510,280,64,17.0,12
+macdonald,McFlurry with Oreo Cookies (Medium),690,380,85,23.0,15
+macdonald,McFlurry with Oreo Cookies (Snack),340,190,43,11.0,8
+macdonald,McFlurry with Reese's Peanut Butter Cups (Medium),810,400,103,32.0,21
+macdonald,McFlurry with Reese's Peanut Butter Cups (Snack),410,200,51,16.0,10
+no_brand_burger,NBB어메이징,725,1433,9,15,32
+no_brand_burger,NBB시그니처,531,1138,9,9,21
+no_brand_burger,NBB오리지널,439,642,8,6,17
+no_brand_burger,스모키살사,450,1019,10,7,19
+no_brand_burger,미트마니아,749,1796,9,13,37
+no_brand_burger,그릴드불고기,426,699,12,5,16
+no_brand_burger,갈릭앤갈릭,486,733,6,6,16
+no_brand_burger,메가바이트,657,989,7,7,19
+no_brand_burger,더블치즈베이컨시그니처,551,1485,7,9,25
+no_brand_burger,스리라차치킨,520,1126,18,5,25
+no_brand_burger,코울슬로치킨,556,1325,13,6,24
+no_brand_burger,콰트로맥앤치즈,628,1279,6,12,24
+no_brand_burger,투머치베이컨,613,1868,9,10,34
+no_brand_burger,차플레핫치킨,459,1147,11,4,18
+no_brand_burger,볼로네제미트,490,1352,9,7,27
+no_brand_burger,감자튀김 M,209,281,1,2,3
+no_brand_burger,감자튀김 L,313,422,1,2,5
+no_brand_burger,어니언 도넛,348,536,4,2,4
+no_brand_burger,NBB치킨너겟 3조각,134,397,1,1,10
+no_brand_burger,NBB치킨너겟 5조각,223,662,2,1,17
+no_brand_burger,크런치 오징어,136,364,1,1,8
+no_brand_burger,크런치 윙 2조각,187,432,0,2,13
+no_brand_burger,크런치 윙 4조각,373,865,1,4,26
+no_brand_burger,인절미 치즈볼,370,385,8,5,10
+no_brand_burger,슈가버터 프라이,397,369,22,6,6
+no_brand_burger,크리스피 상하이포크 S,368,460,0,5,13
+no_brand_burger,크리스피 상하이포크 L,1473,1840,1,19,51
+no_brand_burger,페퍼로니 치아바타,540,1220,5,10,22
+no_brand_burger,베러버거,440,1062,7,6,13
+no_brand_burger,베러샐러드,127,658,8,2,3
+no_brand_burger,치킨시저샐러드,285,608,2,3,14
+no_brand_burger,상하이 포크샐러드,277,706,5,4,9
+no_brand_burger,그린샐러드,90,298,5,2,2
+no_brand_burger,그린샐러드 미니,73,281,5,1,1
+no_brand_burger,에그프라이,74,209,0,1,4
+no_brand_burger,아메리칸 치즈,45,220,1,2,2
+no_brand_burger,스위스 치즈,42,175,0,2,4
+no_brand_burger,베이컨,38,198,0,1,4
+no_brand_burger,케첩(1회용),11,106,3,0,0
+no_brand_burger,허니머스타드소스(1회용),34,78,3,0,0
+no_brand_burger,스윗스파이시 소스,42,133,9,0,0
+no_brand_burger,렌치소스,130,289,3,2,1
+no_brand_burger,펩시콜라,129,9,31,0,0
+no_brand_burger,사이다,129,9,31,0,0
+no_brand_burger,미란다,149,32,40,0,0
+no_brand_burger,펩시제로슈가(라임향),0,49,0,0,0
+no_brand_burger,청귤라임에이드,227,38,56,0,0
+no_brand_burger,오렌지쥬스,139,17,35,0,0
+no_brand_burger,아메리카노,17,3,0,0,1
+no_brand_burger,아이스아메리카노,17,3,0,0,1
+no_brand_burger,브랜드콜라,160,25,40,0,0
+no_brand_burger,브랜드사이다,152,5,38,0,0
+no_brand_burger,브랜드콜라 제로,0,25,0,0,0
+no_brand_burger,브랜드사이다 제로,0,5,0,0,0
+no_brand_burger,오렌지주스(PET),132,95,26,0,2
+prank_burger,프랭크버거(R),364.18,6.69,16.02,8.47,464.53
+prank_burger,치즈버거(R),371.28,4.29,16.22,8.76,559.05
+prank_burger,베이컨치즈버거(R),515.78,7.85,32.03,13.97,962.69
+prank_burger,더블치즈버거(R),626.82,2.87,32.11,19.52,855.9
+prank_burger,쉬림프버거(R),413.97,6.29,11.9,6.33,667.93
+prank_burger,머쉬룸버거(R),465.86,9.2,19.08,11.56,939.98
+prank_burger,JG버거(R),598.1,4.18,35.42,15.2,1272.98
+prank_burger,SG불고기버거(R),353.31,8.21,16.25,6.97,445.3
+prank_burger,SG크림치즈버거(R),428.53,5.43,23.41,11.02,877.56
+prank_burger,프랭크버거(L),453.41,7.54,20.04,10.83,563.66
+prank_burger,치즈버거(L),483.39,5.27,20.04,11.16,718.45
+prank_burger,베이컨치즈버거(L),642.43,10.08,32.03,16.8,1148.6
+prank_burger,더블치즈버거(L),687.04,4.55,33.45,19.51,1149.6
+prank_burger,머쉬룸버거(L),665.3,13.58,26.75,18.1,1203.43
+prank_burger,JG버거(L),828.28,6.42,48.23,22.28,1574.77
+prank_burger,SG불고기버거(L),491.06,13.84,17.24,10.6,606.15
+prank_burger,SG크림치즈버거(L),613.32,8.45,28.27,18.3,972.04
